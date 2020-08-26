@@ -1,4 +1,6 @@
-<h2>Hi, I'm Carol! 👋</h2>
+<h2>Hi, I'm Carol! 
+  <img width="60" src="https://media.giphy.com/media/JoPURpweVqjVP7jl8N/source.gif"> 
+</h2>
 
 <p>
   <em>Computer Science student at <a href="https://portal.ufcg.edu.br/">UFCG</a></em>
@@ -23,7 +25,9 @@
 </pre>
 
 
-<h3>My stats</h3>
+<h3>My stats
+  <img width="40" src="https://media.giphy.com/media/xT0GqvEqri5HpMJL2g/source.gif"> 
+</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=carolvalenca&theme=radical">
 
 
