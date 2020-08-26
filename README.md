@@ -1,5 +1,5 @@
 <h2>Hi, I'm Carol! 
-  <img width="60" src="https://media.giphy.com/media/JoPURpweVqjVP7jl8N/source.gif"> 
+  <img width="60" src="https://media.giphy.com/media/IbBlu5IrAdlPVqOr5N/source.gif"> 
 </h2>
 
 <p>
