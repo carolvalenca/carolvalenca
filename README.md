@@ -20,7 +20,7 @@
   const skills = {
     code: ["Java", "Python", "JavaScript", "HTML", "CSS"],
     tools: ["NodeJS", "ReactJS"],
-    learning: ["ReactJS", "ReactNative", "TypeScript"]
+    learning: ["ReactNative", "TypeScript"]
   }
 </pre>
 
