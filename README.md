@@ -18,7 +18,7 @@
 
 <pre lang="javascript">
   const skills = {
-    code: ["Java", "Python", "JavaScript", "HTML", "CSS"],
+    code: ["JavaScript", "HTML", "CSS", "SQL", "Java", "Python"],
     tools: ["NodeJS", "ReactJS", "ReactNative"],
     learning: ["TypeScript"]
   }
