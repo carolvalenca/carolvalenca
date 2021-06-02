@@ -19,8 +19,8 @@
 <pre lang="javascript">
   const skills = {
     code: ["Java", "Python", "JavaScript", "HTML", "CSS"],
-    tools: ["NodeJS", "ReactJS"],
-    learning: ["ReactNative", "TypeScript"]
+    tools: ["NodeJS", "ReactJS", "ReactNative"],
+    learning: ["TypeScript"]
   }
 </pre>
 
@@ -28,7 +28,10 @@
 <h3>My stats
   <img width="40" src="https://media.giphy.com/media/xT0GqvEqri5HpMJL2g/source.gif"> 
 </h3>
-<img src="https://github-readme-stats.vercel.app/api?username=carolvalenca&theme=radical">
+<div style="display:flex;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolvalenca">
+  <img src="https://github-readme-stats.vercel.app/api?username=carolvalenca&theme=radical">
+</div>
 
 
 <!--
